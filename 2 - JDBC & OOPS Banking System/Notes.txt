@@ -1,0 +1,19 @@
+1. Accounts Class.
+    i. Open account method checks if the account is existing in the databse or not. If not, it creates the new account.
+    ii. Get account number returns the account number that exists in the database.
+    iii. Generate account number returns a new account number that does not exist in the database.
+    iv. Account exists checks if there is an existing account for the same account number or not. 
+2. User Class.
+    i. Register 
+    ii. Login
+    iii. User exists
+3. Account Manager Class.
+    i. Credit money.
+    ii. Debit money.
+    iii. Transfre money.
+    iv. Check balance.
+4. Banking App Class.
+    i. Main menu
+    ii. Instances.
+    iii. Setup db connection.
+    iv. Load driverse.
